@@ -1,5 +1,8 @@
+/**
+ *
+ * @author khushboo
+ */
 package ArrayPractice;
-
 public class BinarySearch {
 	public static void main(String args[]) {
 		int A[] = { 12, 23, 34, 45, 56, 67 };
